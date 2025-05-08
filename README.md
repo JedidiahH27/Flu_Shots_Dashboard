@@ -1,5 +1,7 @@
 # 🩺 Flu Shots Dashboard
 
+![Flu Shots Dashboard Preview](images/Flu Shots Dashboard.png)
+
 # Overview
 This project uses SQL and Tableau to analyze and visualize flu shot data across different demographic and geographic segments. The goal is to identify vaccination trends, highlight disparities, and support public health decision-making through a clean and interactive dashboard.
 
