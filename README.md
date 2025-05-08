@@ -5,17 +5,17 @@ This project uses SQL and Tableau to analyze and visualize flu shot data across 
 
 # Key Features
 
-Extracted and cleaned flu shot data using SQL to ensure accuracy and usability
+- Extracted and cleaned flu shot data using SQL to ensure accuracy and usability
 
-Visualized key insights in Tableau, including:
+- Visualized key insights in Tableau, including:
 
-Vaccination rates by age group, region, and income level
+  - Vaccination rates by age group, region, and income level
 
-Comparisons across states and over time
+  - Comparisons across states and over time
 
-Demographic disparities and public health implications
+  - Demographic disparities and public health implications
 
-Interactive filters for region, age, and income for customizable exploration
+- Interactive filters for region, age, and income for customizable exploration
 
 # Tools Used
 
